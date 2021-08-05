@@ -1,0 +1,28 @@
+{
+  "restaurant": [
+    {
+      "nombrePlatillo": "Ensalada",
+      "precioPlatillo": "100",
+      "categoria": "ensalada",
+      "id": 3
+    },
+    {
+      "nombrePlatillo": "Agua de Frutas",
+      "precioPlatillo": "398",
+      "categoria": "bebida",
+      "id": 4
+    },
+    {
+      "nombrePlatillo": "Pastel Zanahoria",
+      "precioPlatillo": "321",
+      "categoria": "postre",
+      "id": 5
+    },
+    {
+      "nombrePlatillo": "Ensalada de Pollo",
+      "precioPlatillo": "543",
+      "categoria": "ensalada",
+      "id": 6
+    }
+  ]
+}
